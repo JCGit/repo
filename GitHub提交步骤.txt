@@ -1,9 +1,0 @@
-
-first.  (do in local repository)
-	
-	include that do some work in local (add ,delete, modify and so on), then add to git cache, last commit it.
-
-
-second. (push it to remote repository)
-
-	push local files to remote repository.
